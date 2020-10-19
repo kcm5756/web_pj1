@@ -65,7 +65,7 @@
 	</header>
 	<div id="root">
 		<header>
-			<h1>프로젝트 정보 상세 관리</h1>
+			<h1>프로젝트 등록</h1>
 		</header>
 		<hr />
 
